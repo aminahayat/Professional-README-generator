@@ -10,7 +10,7 @@ const questions = () => {
     {
       type: "input",
       name: "title",
-      message: "Enter the title of your application",
+      message: "What is the title of your application",
     },
     {
       type: "input",

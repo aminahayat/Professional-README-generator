@@ -148,4 +148,4 @@ Any questions for me? Send me a direct email on ${email}.
 You can also visit my Github profile here www.github.com/${github}
 `;
 
-// genrate BADGE TO GO AT THE TOP..
+// generate BADGE TO GO AT THE TOP..

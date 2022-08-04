@@ -4,7 +4,7 @@ const fs = require("fs");
 
 // Create an array of questions for user input
 
-// below are qs the user will need to enter which will later get pasted onto HTML
+// questions the user will enter - these will be pasted into HTML 
 const questions = () => {
   return inquirer.prompt([
     {

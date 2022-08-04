@@ -22,7 +22,7 @@ None
 Not many
 
 # License Information
-License
+MIT License
 
 # Contributions
 Myself only 

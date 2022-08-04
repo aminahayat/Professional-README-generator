@@ -1,4 +1,4 @@
-// packages needed for this application
+// Following are packages that are needed 
 const inquirer = require("inquirer");
 const fs = require("fs");
 

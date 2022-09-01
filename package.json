@@ -1,14 +1,23 @@
 {
-    "name": "static-site",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "inquirer": "^6.5.2"
-    }
-  }
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "A program that generates a readme file using Node and inquirer package. It will ask the user to answer questions about their project to ensure all the important information is covered such as title, installation, usage, license, contributors and testing instructions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminahayat/Professional-README-generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/aminahayat/Professional-README-generator/issues"
+  },
+  "homepage": "https://github.com/aminahayat/Professional-README-generator#readme"
+}
